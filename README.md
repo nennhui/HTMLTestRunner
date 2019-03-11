@@ -6,6 +6,7 @@
 
 使用方法跟原先的HTMLTestRunner一样，不过需要安装bottle模块
 
-
+结果图：
+https://github.com/nennhui/HTMLTestRunner/result.png
 
 
